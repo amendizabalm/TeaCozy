@@ -97,3 +97,18 @@ a:link, a:visited{
     flex-direction: column;
     align-items: center;
 }
+
+.container3{
+    display: flex;
+    width: 1000px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-left: 140px;
+    
+}
+
+.item-heading{
+    text-align: center;
+}
