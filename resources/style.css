@@ -13,18 +13,21 @@ nav span .nav{
     padding: 20px 10px;
 }
 
-h1{
+h2{
     font-family: "Helvetica";
     color: seashell;
     font-style: bold;
     opacity: 0.9;
+    margin-top: 10px;
+    margin-bottom: 0px;
 }
 
-h2{
+h3{
     font-family: "Helvetica";
     color: seashell;
     opacity: 0.9;
     font-size: 22px;
+    margin-bottom: 10px;
 }
 
 
